@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "angularamplifyfull20dcb6ee": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
